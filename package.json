@@ -6,6 +6,7 @@
     "start": "ng serve angular-editor-fabric-js-app",
     "build": "ng build angular-editor-fabric-js-app",
     "build:lib": "ng-packagr -p projects/angular-editor-fabric-js/package.json",
+    "buildProd": "ng build --base-href=/your-project-slug/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
