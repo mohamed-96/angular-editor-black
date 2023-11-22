@@ -2,11 +2,6 @@
 
 > Drag-and-drop editor based on Fabricjs for Angular with multiple options
 
-### Example
-![Imgur](https://i.imgur.com/sQsL8G4.png)
-### Output
-![Imgur](https://i.imgur.com/hgTEb20.png)
-
 ### Features
 * Export to image
 * Export to SVG
